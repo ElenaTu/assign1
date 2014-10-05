@@ -85,7 +85,7 @@ void draw() {
       
      machine.setSlotFruit(0,fruitA);
      machine.setSlotFruit(1,fruitB);
-     machine.setSlotFruit(1,fruitC);
+     machine.setSlotFruit(2,fruitC);
  
      
      int a = machine.getSlotScore(0);
